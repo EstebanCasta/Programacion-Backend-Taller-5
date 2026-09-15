@@ -1,3 +1,3 @@
-1er cambio README.md 
+Proyecto CampusStatus
 
 Mejora readme
